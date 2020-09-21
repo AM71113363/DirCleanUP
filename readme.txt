@@ -27,6 +27,6 @@ IMPORTANT:
 Default Settings[ can't be changed unless you modify the code ]
 
 DirCleanUp.exe will delete all:
-                                  Empty Folders
-                                  Files with size=0
-                                  Files with no extension
+                    Empty Folders
+                    Files with size=0
+                    Files with no extension
